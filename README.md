@@ -12,9 +12,9 @@ Okay it's probably not that serious or diabolic but I hope you get the point.
 
 | Category | Name | Wiki/Forum Thread | Author(s) |
 | -------- |:----:|:-----------------:| -----:| 
-| INVENTORY | SmartInvs | https://minuskube.gitbooks.io/smartinvs/ | @minuskube
-| PARTICLES | EffectLib |https://github.com/Slikey/EffectLib| @Slikey 
-| COMMAND  | ACF |https://www.spigotmc.org/threads/acf-beta-annotation-command-framework.234266/| @Aikar
+| INVENTORY | SmartInvs | [Link](https://minuskube.gitbooks.io/smartinvs/) | @minuskube
+| PARTICLES | EffectLib | [Link](https://github.com/Slikey/EffectLib) | @Slikey 
+| COMMAND  | ACF | [Link](https://www.spigotmc.org/threads/acf-beta-annotation-command-framework.234266/) | @Aikar
 
 ## Acknowledgements
 I feel like it is only fair that we acknowledge each and ever developer of every skill set who took the time to make these projects and provide them to use.
