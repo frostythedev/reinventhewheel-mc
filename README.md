@@ -26,4 +26,4 @@ Please make sure to update tests as appropriate.
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[GNU GPL-3](https://github.com/tevinstech/reinventhewheel-mc/blob/master/LICENSE)
